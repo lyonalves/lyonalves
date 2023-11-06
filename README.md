@@ -69,8 +69,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lyonalves/lyonalves/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="220" src="https://i.pinimg.com/originals/29/bd/26/29bd261d201e956588ee777d37d26800.gif"  />
+</div>
 
 ###
